@@ -1,0 +1,13 @@
+<svg width="900" height="840" viewBox="0 0 900 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="840" fill="#43089F"/>
+  <circle cx="704" cy="172" r="104" fill="#3BD3FD"/>
+  <circle cx="676" cy="148" r="104" fill="#43089F"/>
+  <rect x="136" y="140" width="628" height="560" rx="60" fill="#FAF9F7"/>
+  <rect x="214" y="220" width="188" height="352" rx="94" fill="#C1B0FF"/>
+  <rect x="242" y="290" width="132" height="206" rx="66" fill="#fff"/>
+  <text x="254" y="388" fill="#43089F" font-family="Arial, sans-serif" font-size="34" font-weight="700">orbit</text>
+  <rect x="472" y="260" width="210" height="294" rx="30" fill="#101010"/>
+  <text x="512" y="352" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="700">skin</text>
+  <text x="515" y="400" fill="#3BD3FD" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">DAILY VEIL</text>
+  <path d="M198 632C326 592 461 634 576 602C644 583 690 540 732 486" stroke="#43089F" stroke-width="2" stroke-dasharray="10 14"/>
+</svg>

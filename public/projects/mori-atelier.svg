@@ -1,0 +1,14 @@
+<svg width="900" height="840" viewBox="0 0 900 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="840" fill="#FAF9F7"/>
+  <rect x="54" y="54" width="792" height="732" rx="54" fill="#101010"/>
+  <path d="M103 681C244 565 309 440 470 456C641 473 678 336 797 192" stroke="#84E7A5" stroke-width="2" stroke-dasharray="12 14"/>
+  <rect x="190" y="162" width="250" height="442" rx="28" fill="#F7F3EA"/>
+  <rect x="220" y="196" width="190" height="374" rx="18" fill="#111"/>
+  <text x="250" y="277" fill="#FAF9F7" font-family="Arial, sans-serif" font-size="54" font-weight="700">mori</text>
+  <text x="253" y="324" fill="#84E7A5" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">CEDAR MIST</text>
+  <rect x="494" y="282" width="170" height="348" rx="85" fill="#EDE5D8"/>
+  <rect x="520" y="326" width="118" height="190" rx="59" fill="#84E7A5"/>
+  <rect x="537" y="236" width="84" height="84" rx="18" fill="#FAF9F7"/>
+  <text x="552" y="568" fill="#111" font-family="Arial, sans-serif" font-size="29" font-weight="700">04</text>
+  <circle cx="704" cy="186" r="44" fill="#84E7A5"/>
+</svg>
