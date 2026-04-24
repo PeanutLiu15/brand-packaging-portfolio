@@ -1,13 +1,13 @@
-# Design Direction
+# 设计方向
 
-## Mood
+## 气质
 
-Brand packaging portfolio with two references:
+品牌包装设计师个人作品集，参考两套视觉语言：
 
-- Clay: warm cream canvas, oat borders, playful color swatches, generous rounded panels, dashed craft details, and tactile hover behavior.
-- Apple: restrained hierarchy, product-first composition, precise spacing, cinematic hero pacing, and minimal UI chrome.
+- Clay：暖奶油色画布、燕麦色边框、彩色 swatch、圆角容器、虚线手作细节和有触感的 hover。
+- Apple：克制层级、产品优先、精确留白、电影感首屏节奏和低干扰 UI。
 
-## Palette
+## 色彩
 
 - Warm Cream: `#faf9f7`
 - Paper White: `#ffffff`
@@ -22,20 +22,21 @@ Brand packaging portfolio with two references:
 - Pomegranate: `#fc7981`
 - Action Blue: `#0071e3`
 
-## Rules
+## 规则
 
-- Lead with packaging visuals, not marketing explanation.
-- Keep large sections calm and product-focused.
-- Use swatch color boldly for packaging materials, but keep UI chrome neutral.
-- Use warm oat borders instead of cool gray dividers.
-- Use rounded panels for tactile objects and full-width sections.
-- Let hover states feel physical: small rotation, lift, and hard offset shadow.
-- Avoid decorative gradients as the primary identity; use them only to support mockup lighting.
+- 首屏必须直接展示包装视觉，不做空泛营销页。
+- 大区块保持冷静、清晰、产品优先。
+- 包装和案例可以大胆使用色块，导航和按钮保持克制。
+- 使用暖燕麦色边框，不用冷灰色分割线。
+- 案例卡和内容区使用较大圆角，强调可触摸的产品感。
+- Hover 要有轻微旋转、抬升和硬阴影，保持 Clay 的手作互动。
+- 渐变只服务于包装光影，不作为主要装饰。
 
-## Components
+## 组件
 
-- Sticky pill navigation with translucent warm background.
-- Hero stage with layered packaging mockups.
-- Case-study cards with local packaging artwork and palette swatches.
-- Service cards with simple iconography.
-- Contact panel as a launch-ready brief entry point.
+- 半透明暖色胶囊导航。
+- 首屏多层包装 mockup 展示区。
+- 虚拟案例卡：图片、任务、方案、材料、交付物、成果指标。
+- 合作流程卡片。
+- 设计能力卡片与项目启动清单。
+- 联系区作为 brief 入口。

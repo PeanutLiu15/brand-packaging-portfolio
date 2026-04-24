@@ -1,0 +1,15 @@
+<svg width="900" height="672" viewBox="0 0 900 672" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="672" fill="#3BD3FD"/>
+  <rect x="64" y="62" width="772" height="548" rx="52" fill="#FAF9F7"/>
+  <rect x="170" y="142" width="126" height="358" rx="63" fill="#02492A"/>
+  <rect x="192" y="216" width="82" height="184" rx="41" fill="#FAF9F7"/>
+  <text x="205" y="310" fill="#02492A" font-family="Arial, sans-serif" font-size="22" font-weight="700">L</text>
+  <rect x="348" y="126" width="126" height="390" rx="63" fill="#FBBd41"/>
+  <rect x="370" y="206" width="82" height="204" rx="41" fill="#FAF9F7"/>
+  <text x="385" y="314" fill="#02492A" font-family="Arial, sans-serif" font-size="22" font-weight="700">F</text>
+  <rect x="526" y="142" width="126" height="358" rx="63" fill="#FC7981"/>
+  <rect x="548" y="216" width="82" height="184" rx="41" fill="#FAF9F7"/>
+  <text x="563" y="310" fill="#02492A" font-family="Arial, sans-serif" font-size="22" font-weight="700">K</text>
+  <text x="690" y="230" fill="#02492A" font-family="Arial, sans-serif" font-size="48" font-weight="700">lumen</text>
+  <text x="692" y="274" fill="#02492A" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">FERMENT</text>
+</svg>

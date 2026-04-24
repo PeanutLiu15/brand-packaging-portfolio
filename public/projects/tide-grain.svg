@@ -1,0 +1,13 @@
+<svg width="900" height="672" viewBox="0 0 900 672" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="672" fill="#01418D"/>
+  <rect x="70" y="60" width="760" height="552" rx="46" fill="#FBBd41"/>
+  <rect x="150" y="132" width="286" height="398" rx="30" fill="#FAF9F7"/>
+  <path d="M150 322C213 266 272 374 340 312C379 277 408 258 436 262V530H150V322Z" fill="#FC7981"/>
+  <text x="194" y="232" fill="#01418D" font-family="Arial, sans-serif" font-size="48" font-weight="700">tide</text>
+  <text x="195" y="275" fill="#01418D" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">GRAIN MORNING</text>
+  <rect x="506" y="178" width="92" height="258" rx="24" fill="#FC7981"/>
+  <rect x="622" y="198" width="92" height="238" rx="24" fill="#FAF9F7"/>
+  <circle cx="552" cy="322" r="30" fill="#FAF9F7"/>
+  <circle cx="668" cy="322" r="30" fill="#01418D"/>
+  <text x="520" y="494" fill="#01418D" font-family="Arial, sans-serif" font-size="30" font-weight="700">7 packs</text>
+</svg>

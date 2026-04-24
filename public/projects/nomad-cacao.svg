@@ -1,0 +1,13 @@
+<svg width="900" height="672" viewBox="0 0 900 672" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="672" fill="#3A2317"/>
+  <rect x="70" y="58" width="760" height="556" rx="46" fill="#FAF9F7"/>
+  <path d="M142 486C229 383 312 430 374 320C431 219 526 236 607 138C656 80 721 83 770 70" stroke="#D36B43" stroke-width="3" stroke-dasharray="12 14"/>
+  <rect x="150" y="146" width="246" height="344" rx="20" fill="#F8CC65"/>
+  <rect x="178" y="174" width="190" height="288" rx="12" fill="#3A2317"/>
+  <text x="205" y="262" fill="#F8CC65" font-family="Arial, sans-serif" font-size="44" font-weight="700">nomad</text>
+  <text x="207" y="303" fill="#FAF9F7" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">CACAO 72%</text>
+  <rect x="478" y="176" width="222" height="316" rx="28" fill="#D36B43"/>
+  <rect x="506" y="204" width="166" height="260" rx="18" fill="#FAF9F7"/>
+  <circle cx="589" cy="310" r="58" fill="#3A2317"/>
+  <text x="535" y="419" fill="#3A2317" font-family="Arial, sans-serif" font-size="28" font-weight="700">Peru</text>
+</svg>
